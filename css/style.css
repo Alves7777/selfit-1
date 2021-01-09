@@ -1,0 +1,37 @@
+body, html {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+
+}
+
+.navbar {
+    padding: 15px;
+
+}
+
+.nav {
+    font-size: 12px;
+    font-family: Arial;
+    margin-right: 20px;
+}
+nav > .logo {
+    background-image: url('../img/logo_ajust.png');
+    width: 120px;
+    height: 80px;
+    display: table;
+    background-size: cover;
+}
+
+.qodef-st-title {
+        font-size: 50px;
+        font-family: Arial;
+}
+.qodef {
+    font-size: 10px;
+    font-family: Arial;
+
+}
+
+.section-5 > .casal {
+    padding-right: 10px;
+}
