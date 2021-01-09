@@ -22,10 +22,6 @@ function navbar() {
               <li class="nav-item">
                 <a class="nav-link" href="#">COMEÇE SUA JORNADA</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">CADASTRE-SE</a>
-              </li>
-              
             </ul>
             </div>
     </nav

@@ -35,3 +35,8 @@ nav > .logo {
 .section-5 > .casal {
     padding-right: 10px;
 }
+
+.col > h6 {
+    color: black;
+
+}

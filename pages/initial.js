@@ -49,18 +49,16 @@ function initial() {
                 </div>
             </section>  
             <section>
-                <div class="container">
+                <div class="container mt-5">
                   <div class="row">
                     <div class="col">
                       <img src="./img/iphones-selfit-2.png" width="100%">
                     </div>
                     <div class="col">
-                      2 of 2
+                      <h2 class="qodef-st-title"><strong>TREINO DO SEU JEITO DENTRO E FORA DA ACADEMIA<strong/></h2>
+                      <h6 class="mt-4">Escolha facilmente o treino que você deseja fazer e deixe o aplicativo guiá-lo durante o treino: o aplicativo se move automaticamente para o próximo exercício e oferece a possibilidade de avaliar sua experiência e agendar seu próximo treino, obtenha seu programa de treinamento personalizado e completo, incluindo cardio, força, aulas e todos os tipos de atividades; acesse todas as instruções e vídeos do exercício;</h6>
                     </div>
                   </div>
             </section>    
-            
-       
-
     `;
 }
