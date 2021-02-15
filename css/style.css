@@ -40,3 +40,15 @@ nav > .logo {
     color: black;
 
 }
+
+.base {
+    border-style: dashed;
+    margin: 5px;
+    padding-bottom: 10px;
+}
+
+basee2 {
+    border-style: double;
+    border-color: #0f60ff;
+
+}

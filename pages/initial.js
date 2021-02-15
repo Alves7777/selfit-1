@@ -60,5 +60,6 @@ function initial() {
                     </div>
                   </div>
             </section>    
+            <br>
     `;
 }
