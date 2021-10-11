@@ -1,7 +1,7 @@
 function navbar() {
     return `
         <nav class="navbar navbar-dark" style="background-color: white;">          
-            <div class="logo"></div>     
+            <a href="index.html" class="logo"></a>     
         <div class="nav">
             <ul class="nav justify-content-end">
               <li class="nav-item">
@@ -20,7 +20,7 @@ function navbar() {
                 <a class="nav-link" href="#">ÁREA DO ALUNO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">COMEÇE SUA JORNADA</a>
+                <a class="nav-link" href="?page=register-customer">REGISTRO DO CLIENTE</a>
               </li>
             </ul>
             </div>

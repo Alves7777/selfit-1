@@ -3,6 +3,7 @@ const page = url.searchParams.get('page');
 
 const routes = {
     'inicial': initial,
+    'register-customer': registerCustomer
 
 }
 
